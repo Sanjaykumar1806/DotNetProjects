@@ -1,0 +1,8 @@
+E:\Personal\Coding\TestAnagram\TestAnagram\bin\Debug\TestAnagram.exe.config
+E:\Personal\Coding\TestAnagram\TestAnagram\bin\Debug\TestAnagram.exe
+E:\Personal\Coding\TestAnagram\TestAnagram\bin\Debug\TestAnagram.pdb
+E:\Personal\Coding\TestAnagram\TestAnagram\obj\Debug\TestAnagram.csprojResolveAssemblyReference.cache
+E:\Personal\Coding\TestAnagram\TestAnagram\obj\Debug\TestAnagram.csproj.CoreCompileInputs.cache
+E:\Personal\Coding\TestAnagram\TestAnagram\obj\Debug\TestAnagram.exe
+E:\Personal\Coding\TestAnagram\TestAnagram\obj\Debug\TestAnagram.pdb
+E:\Personal\Coding\TestAnagram\TestAnagram\obj\Debug\TestAnagram.g.resources
